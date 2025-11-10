@@ -1,6 +1,8 @@
 # 🌱 Smart-AI-System-for-Agriculture using CrewAI + Groq
 
 A smart agricultural support system that not only **detects plant diseases from leaf images** but also **analyzes infection severity** and **recommends remedies** intelligently using **CrewAI Agents** and **Groq LLM**.
+# LinkedIn Link:
+https://www.linkedin.com/posts/chetan-kumar-patruni_crewai-aiagents-groq-activity-7323279775538499584-UFhm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4_SUQBBYHcCbB8fGJDReojMInn5E4i0Ew
 
 ---
 
